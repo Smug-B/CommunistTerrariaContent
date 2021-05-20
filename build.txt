@@ -1,0 +1,10 @@
+displayName = Communist Terraria ( Content )
+author = Karl Marx & Friedrich Engels
+version = 1.923.01.01
+homepage = https://www.marxists.org/archive/marx/works/1848/communist-manifesto/
+modReferences = CommunistTerraria
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = false
