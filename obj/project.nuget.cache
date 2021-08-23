@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eiIXRaXgBB9BvnVLSmxD4nRmIlJ00ULqa6jLOvycU1Mb+dFhKw+f7plBP46A0C94tR1pi2Mc4hGMMB85qjqb6g==",
+  "dgSpecHash": "sdddXuT2Vya0y8ashotZF2cCJxKNk5tgmvKTmYrAIJDZa4cdY/F8NcV2Mt/BczeOi9sPw8b20NiaBoZtR3hOdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smugb\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CommunistTerrariaContent\\CommunistTerrariaContent.csproj",
+  "projectFilePath": "C:\\Users\\Cuno\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CommunistTerrariaContent\\CommunistTerrariaContent.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\smugb\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+    "C:\\Users\\Cuno\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
   ],
   "logs": []
 }

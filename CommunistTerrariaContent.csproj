@@ -15,7 +15,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="CommunistTerraria">
-      <HintPath>..\CommunistTerraria\bin\Debug\net45\CommunistTerraria.dll</HintPath>
+      <HintPath>libs\CommunistTerraria.XNA.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>

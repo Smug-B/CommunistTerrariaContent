@@ -31,19 +31,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\smugb\\.nuget\\packages\\": {}
+    "C:\\Users\\Cuno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smugb\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CommunistTerrariaContent\\CommunistTerrariaContent.csproj",
+      "projectUniqueName": "C:\\Users\\Cuno\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CommunistTerrariaContent\\CommunistTerrariaContent.csproj",
       "projectName": "CommunistTerrariaContent",
-      "projectPath": "C:\\Users\\smugb\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CommunistTerrariaContent\\CommunistTerrariaContent.csproj",
-      "packagesPath": "C:\\Users\\smugb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smugb\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CommunistTerrariaContent\\obj\\",
+      "projectPath": "C:\\Users\\Cuno\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CommunistTerrariaContent\\CommunistTerrariaContent.csproj",
+      "packagesPath": "C:\\Users\\Cuno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cuno\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CommunistTerrariaContent\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\smugb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -74,7 +74,7 @@
             "version": "[0.1.*, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
